@@ -23,7 +23,7 @@ function sum(name,...args){
   document.write(arr3 + "<br>");
 
 
-// spread operator in object
+// using spread operator in object
 
 var obj1 = {
     name : "Aatika"
